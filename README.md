@@ -20,3 +20,9 @@ UI Testing, also known as GUI Testing is basically a mechanism meant to test the
 Functional testing is a type of testing that seeks to establish whether each application feature works as per the software requirements. 
 ### Usability Testing 
 Usability testing refers to evaluating a product or service by testing it with representative users. 
+
+## Test Result :
+Total Number | Test Case
+------------- | -------------
+47  | Passed
+10  |  Failed
