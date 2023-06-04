@@ -1,12 +1,8 @@
 # Project Name: Quick Solution 
 ### URL : https://quick-solution-2.web.app/
-### Table of Contents :
-
-* Mind Map
-* Test Case
-* Bug Reports
-* Test Matrix
-* Test Report
+### Description
+Quick Solution, also known as an online job web application for students, represents a job 
+search and also offers jobs over the internet. In this project It was tested by me. I executed Ui testing, Function testing, Usability testing on It. 
 ## Types of Testing
 ### UI Testing
 UI Testing, also known as GUI Testing is basically a mechanism meant to test the aspects of any software that a user will come into contact with. This usually means testing the visual elements to verify that they are functioning according to requirements – in terms of functionality and performance. 
@@ -14,3 +10,11 @@ UI Testing, also known as GUI Testing is basically a mechanism meant to test the
 Functional testing is a type of testing that seeks to establish whether each application feature works as per the software requirements. 
 ### Usability Testing 
 Usability testing refers to evaluating a product or service by testing it with representative users. 
+
+### Table of Contents :
+
+* Mind Map
+* Test Case
+* Bug Reports
+* Test Matrix
+* Test Report
