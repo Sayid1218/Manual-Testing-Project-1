@@ -23,6 +23,9 @@ Usability testing refers to evaluating a product or service by testing it with r
 
 ## Test Result :
 Total Number | Test Case
-------------- | -------------
 47  | Passed
-10  |  Failed
+10  | Failed
+0   | Not Executed
+0   | Out of Scope
+57  | Total Test Cases
+
