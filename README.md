@@ -1,6 +1,6 @@
 # Project Name: Quick Solution 
 ### URL : https://quick-solution-2.web.app/
-### Module 
+### Module : SignUp and Register 
 ### Stage : Published
 ### Description
 Quick Solution, also known as an online job web application for students, represents a job 
