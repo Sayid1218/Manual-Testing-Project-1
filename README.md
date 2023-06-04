@@ -1,5 +1,6 @@
 # Project Name: Quick Solution 
 ### URL : https://quick-solution-2.web.app/
+### Stage : Published
 ### Description
 Quick Solution, also known as an online job web application for students, represents a job 
 search and also offers jobs over the internet. In this project It was tested by me. I executed Ui testing, Function testing, Usability testing on It. 
